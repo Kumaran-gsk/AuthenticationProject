@@ -7,7 +7,7 @@ using AuthenticationProject.Models;
 
 namespace AuthenticationProject.Controllers
 {
-    //[Authorize]
+    
     public class AccessController : Controller
     {
         public IActionResult Login()
